@@ -37,7 +37,7 @@ function SEO({ meta, image, title, description, slug, lang = 'en' }) {
                   title,
                 }
               : {
-                  title: `${siteMetadata.title} — A blog by Dan Abramov`,
+                  title: `${siteMetadata.title} — A blog by Ivan Mauricio`,
                 })}
             meta={[
               {
@@ -106,7 +106,7 @@ SEO.propTypes = {
   image: PropTypes.string,
   meta: PropTypes.array,
   slug: PropTypes.string,
-  title: PropTypes.string.isRequired,
+  title: PropTypes.string,
 };
 
 export default SEO;

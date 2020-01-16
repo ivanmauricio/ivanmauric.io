@@ -1,13 +1,13 @@
 import { Link, graphql } from 'gatsby';
+import React from 'react';
+import get from 'lodash/get';
 import { formatPostDate, formatReadingTime } from '../utils/helpers';
 
 import Bio from '../components/Bio';
 import Footer from '../components/Footer';
 import Layout from '../components/Layout';
 import Panel from '../components/Panel';
-import React from 'react';
-import SEO from '../components/SEO';
-import get from 'lodash/get';
+import Seo from '../components/SEO';
 import { rhythm } from '../utils/typography';
 
 class BlogIndexTemplate extends React.Component {
@@ -19,7 +19,7 @@ class BlogIndexTemplate extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO />
+        <Seo />
         <aside>
           <Bio />
         </aside>
@@ -28,13 +28,13 @@ class BlogIndexTemplate extends React.Component {
             <Panel>
               These articles have been{' '}
               <a
-                href="https://github.com/gaearon/overreacted.io#contributing-translations"
+                href="https://github.com/gaearon/ivanmauric.io#contributing-translations"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 translated by the community
               </a>
-              .
+              <span>.</span>
             </Panel>
           )}
 

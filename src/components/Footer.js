@@ -9,6 +9,9 @@ class Footer extends React.Component {
         style={{
           marginTop: rhythm(2.5),
           paddingTop: rhythm(1),
+          position: 'absolute',
+          bottom: rhythm(1),
+          width: `calc(100% - ${rhythm(2)})`,
         }}
       >
         <div style={{ float: 'right' }}>
@@ -17,7 +20,7 @@ class Footer extends React.Component {
           </a>
         </div>
         <a
-          href="https://mobile.twitter.com/dan_abramov"
+          href="https://mobile.twitter.com/ivanmauric_io"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -25,20 +28,20 @@ class Footer extends React.Component {
         </a>{' '}
         &bull;{' '}
         <a
-          href="https://github.com/gaearon"
+          href="https://github.com/ivanmauricio"
           target="_blank"
           rel="noopener noreferrer"
         >
           github
         </a>{' '}
         &bull;{' '}
-        <a
-          href="https://stackoverflow.com/users/458193/dan-abramov"
+        {/* <a
           target="_blank"
           rel="noopener noreferrer"
         >
+        // TODO: add stackoverflow on here?
           stack overflow
-        </a>
+        </a> */}
       </footer>
     );
   }
