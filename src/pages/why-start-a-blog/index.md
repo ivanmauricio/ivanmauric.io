@@ -36,4 +36,6 @@ Whatever we are learning, we should take the time to teach others about it. This
 
 On that note I'd like to end my first post with an expression of gratitude for those student-teachers who have inspired me and continue to do so. Thank you [Leo](https://www.actualized.org) and thank you [Kent](https://kentcdodds.com). If I can contribute half as much as value to someone else as you have to me then I'll be doing pretty well 👨🏽‍🎤
 
+---
+
 \* Student-teacher is like the concept of [space-time](https://www.reddit.com/r/explainlikeimfive/comments/6z07lu/eli5_what_exactly_is_spacetime/). Phenomena that seem different from one perspective but that turn out to be one undivided whole when observed from a higher vantage point 🤓
