@@ -30,7 +30,7 @@ So how better to tap into creativity than to create my very own corner of the in
 
 
 
-My idea to start this blog came about directly after reading about the concept of [learning in public](https://www.swyx.io/writing/learn-in-public/). The basic idea, or at least my take on it, is that we are all student-teachers*. This means that whatever skill you are trying to gain, you have not unlocked your full learning potential until you start seeing yourself as a transmitter of knowledge rather than a passive consumer of it.
+My idea to start this blog came about directly after reading about the concept of [learning in public](https://www.swyx.io/writing/learn-in-public/). The basic idea, or at least my take on it, is that we are all student-teachers. This means that whatever skill you are trying to gain, you have not unlocked your full learning potential until you start seeing yourself as a transmitter of knowledge rather than a passive consumer of it.
 
 Whatever we are learning, we should take the time to teach others about it. This has many benefits, both to us as individuals and to the community of learners as a whole. Teaching something will make explicit all the gaps in our knowledge and making ourselves visible will allow others to fill in those gaps. Once more, the content you create, the way you approach a topic and communicate your understanding will be unique to you. This uniqueness will resonate with like-minded beings out there and you will have helped them understand something better than anyone else could have done. The more voices and perspectives we have, the more we can all bring each other up.  
 
