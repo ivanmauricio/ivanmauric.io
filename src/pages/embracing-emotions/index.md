@@ -1,59 +1,83 @@
 ---
-title: Emergent Goals
-date: '2021-02-21'
-spoiler: Intuitive Goal Setting
+title: Embracing Emotions
+date: '2021-02-14'
+spoiler: Learning to welcome all of our emotions
 ---
 
-I've been thinking a lot about goals because recently I decided to embrace [review processes](https://fortelabs.co/blog/the-weekly-review-is-an-operating-system/) as if they were going out of fashion. To be honest, I'm not sure they were ever in fashion.
+![Emotions Wheel](emotions-wheel.png)
 
-A shift in perspective I've been playing with is seeing goals and projects as emergent phenomena. That might take some unpacking, so allow me to explain.
+In 2020 I learnt that all my emotions are wise guides full of teachings. I also realised I'd forgotten this truth for most of my adult life. Somewhere along the way I learnt that there were "good" and "bad" emotions, and the goal in life was to maximise the good ones and eliminate the bad ones.
 
-When it comes to goal setting, we might think that we have to sit down one afternoon and come up with our 10 year plan. This is top-down control, where our past self dictates what actions we will take for years to come.
+For this reason I developed a whole arsenal of avoidance strategies. Of course, if you'd asked me why I was getting stoned, watching so much TV or eating junk food, I would have told you that I enjoyed all these activities. The avoidance was mostly occurring at a level below conscious awareness.
 
-What I'm proposing is that regular reviews allow for an inversion of control, allowing goals to surface from our day to day lives in a bottom-up approach. Our job shifts from setting goals, to recognising ones that we're already pursuing but haven't made explicit. This way, it is the reality of our day-to-day actions that shapes our project management system, not the other way round.
+## Why we block "negative" emotions
 
-## Getting specific
+As part of *[Art of Accomplishment](https://learn.fortelabs.co/p/the-art-of-accomplishment-application)* we learnt why we don't feel safe letting "negative" emotions in. From a very young age we learn which emotions aren't socially acceptable. We throw a tantrum and are punished for it, and in the process we develop the belief that showing anger will lead to rejection.
 
-An example of this approach came earlier this year. I finished my January monthly review and had a clear aim for the month. I'd finally finish Leo Gura's [Life Purpose course](https://www.actualized.org/life-purpose-course), which I'd bought 4 years ago and have been trying to get through ever since. This time I knew I was going to do it. My life purpose for January became doing the work to find my elusive life purpose.
+By the time we're adults we've forgotten about this belief. It is buried deep in our psyche, leading us to assume that that's just how the world is. Without realising, we've conditioned ourselves to block off a large part of our emotional landscape.
 
-Yet, after a couple of weeks it was impossible for me to ignore the complete lack of progress on this project. This is the point where most of us will start berating ourselves. Why can't I just do what I set out to do? It's hopeless. I might as well just give up!
+We've blocked emotions like anger for so long that our nervous system is not used to them. When they arise, they're intense physiological experiences, and this intensity triggers a fear that they'll overwhelm us.
 
-Once my inner critic had their say, I decided to look a little deeper. Another impossible to avoid fact was that I'd been working hard. I knew I'd been getting up early and filling my mornings with productive activities. Mornings were the time I’d set aside to the course, so where had the time been going?
+Again, this isn't a conscious process. But somewhere deep down there is a fear that if we allow sadness in, it will turn into a permanent depression. This doesn't just apply to sadness though. For each of the "negative" emotions we block, we have an underlying fear about what would happen if we let them in:
 
-I realised that without noticing I'd taken up a new project. What was interesting about this project is that I never made an explicit decision to take it on. It'd slipped in to my life unannounced, and without me realising had pushed Leo's course to the wayside.
+"If I allow anger in, I'll hurt myself or others"
 
-So what had happened? Had distraction and a thirst for novelty derailed my well laid plans? Was I procrastinating once again?
+"If I allow fear in, I'll be unable to act and I'll fail"
 
-## Emergent Goals
+Seeing these fears written out explicitly, they might appear exaggerated. The truth is they are. Yet explicitness is the domain of the intellect. Emotions work at a more foundational, implicit level. Using logic to understand how misguided these fears might be hasn't helped much in moments where sadness threatens to envelop me.
 
-I'd been spending the time I'd set aside to do the course on reading a book on systems thinking. This book had been on my radar for some time, and I'd decided to start on it because it aligned with the start of a work project on designing digital systems for my team.
+While logic may not help in the moment, it can help us understand our behaviour. If wanting to avoid "negative" emotions is the root cause of bad habits, then whatever is making us want to avoid these feelings must be a powerful force.
 
-Reflecting on this, it became clear that the context of my life at this particular moment meant that it made more sense to read the book than to complete the course. A goal setting framework called [Windows of Opportunity](https://fortelabs.co/blog/windows-of-opportunity/) explains why this was the case.
+After all, everyone wants to eat less junk food, spend less time in front of screens, and lead a less sedentary lifestyle. Our strong desire to give these addictions up is pitted against our fear of what might happen if we let these feelings in, and unfortunately the fear wins out most of the time.
 
-Summing it up briefly, this framework says that there are particular times where special conditions come into place that make the chances of a project succeeding much higher.
+## What happens when we let emotions in
 
-In this instance, I knew that I'd be much more likely to grasp the wisdom contained in the book if I wasn't solely consuming its contents, but also applying them to solve real world problems I was facing.
+When I learnt about these emotional mechanisms, I was still doubtful whether this perspective on emotions corresponded to my experience. So I decided to start paying close attention to what happens internally when strong emotions arise in my day to day.
 
-What's interesting about my pivot is that it wasn't made consciously. I didn't think about the Windows of Opportunity framework when deciding to start reading the book. It was a more intuitive process, where one morning I just decided to take a look at this book that had been sitting on my Kindle for a while.
+For example, a few weeks ago my girlfriend went on holiday. Her adventurous streak meant that she didn't have a place to stay on her first night, the plan was to work it out when she got there. That night, it started getting late and I hadn't heard from her, so I tried to call her. Straight to answer machine. Same result when I tried calling 5 minutes later.
 
-In a sense the project emerged out of a higher intelligence. While I wasn't consciously aware of the choice to replace one project with another, a part of me knew that this shifting priorities would lead to more favourable conditions.
+This is when anxiety started flooding in. And along with anxiety, negative, looping thoughts:
 
-## Aligning our system with reality
+"What if something's happened to her?"
 
-Yet, because it wasn't a conscious decision, I didn't think to update my project management system to reflect my new priorities. This led to some unnecessary cognitive dissonance.
+"What if she's had an accident?"
 
-For a few weeks I sat down to do my weekly review and saw no progress on the course. This was demotivating, with feelings of guilt coming up for not doing what I'd set out to do. Feeling this way is exactly the opposite of what I'm aiming for when using my project management system. I want to look at my goals and feel inspired and motivated that I'm making progress on them.
+...
 
-The thing is, I was making progress on goals. Just not on the ones that I'd written down! If only my system had more closely mirrored the change in my behaviour I would have been feeling proud of what I'd accomplished during the week rather than hopeless over my lack of commitment.
+Then I remembered, in the past people didn't have phones. They assumed their faraway loved ones were fine unless they heard otherwise. I was being silly. Yes everything's fine, I can stop worrying and watch some TV.
 
-This has led a shift in how I carry out my reviews. Now, I reflect on the differences between what I set out do and how I've actually been spending my time. For example, as soon as I realised that my aim for January had shifted from finding my life purpose to learning about and creating systems, I took the course commitment off my projects list. This felt like lifting a weight off my shoulders.
+Except of course that rationalisations don't have much of an impact on emotions. The anxiety was still there. And what I thought was me getting on with my night, was actually a mechanism for suppressing it. A way to distract myself.
 
-By explicitly reducing my commitments, space was opened up to double down on my systems learning. Now that I'd noticed the emergence of the project, I could consciously think of ways to optimise for it. Maybe instead of just reading the book and creating the systems for my team, I could write a post about what I'd learnt. This would take my learning to the next level, maximising my original goal.
+I caught myself though. These teachings were fresh in my mind. We'd learnt about how and why we block emotions, and were invited to experiment with doing the opposite. So I sat still and tried to welcome whatever came up in my experience.
 
-## Closing thoughts
+It's simple to sit still and embody a welcoming attitude. Yet, that doesn't make it an easy process. I tried to go into the anxiety as much as possible. This meant going into the fear that she might be dead and feeling everything that came along with that.
 
-Our project management system is a model of reality. When that model doesn't align well with our actual behaviour then it becomes self-defeating. We'll become discouraged and swear off ever setting any goals. I feel that this is why most people give up on implementing [GTD](https://gettingthingsdone.com/)-type systems in their lives. What fun is it to constantly feel like we're behind?
+I should point out again that this isn't a logical process. On a logical level, I knew the likelihood that she was okay and that she would soon be in touch was much higher than any of the horrible scenarios running through my head.
 
-This invite then is to look for what you're already aiming for and start from there. When we stop and make explicit our unstated goals, we may feel embarrassment, judging them as not worthy enough. I'd encourage you to let go of these judgements and start honouring these desires. When  you do this, you'll start to develop trust in your inner compass.
+Yet, these rationalisations are the excuses we give ourselves for blocking emotions. To fully feel them, we have to drop them and allow the fear to rise up in us. Unlike our intellect, fear doesn't care whether the horrible imagery running through our minds is realistic. Allowing "negative" emotions means letting the worst-case scenarios play themselves out. Needless to say, this is incredibly difficult and explains why we'd rather distract ourselves.
 
-Making your project list be a reflection of this inner guidance will align your intellect with the wisdom of your heart. With these two in powerful alliance the conditions will be perfect to set off in the quest for your dreams.
+## Allowing Emotions to Move
+
+What the aim of all this though? Do we benefit or is it pure masochism?
+
+It turns out that our fears are telling us a story that's completely backwards. We think that if we allow "negative" emotions in they'll overtake us, whereas what actually happens is that welcoming them is what allows them to move. It's no coincidence that "emotion" has the word motion in it. Its etymology can be traced to the Latin for to move, *movere*. They want to move, it's in their nature. But for this to happen, we have to let them come to the surface.
+
+The reason our anger stays with us much longer than is necessary is our resistance to it. What we resist persists. We block our emotions because we believe if we're in control of them, they won't take control of us. In fact the opposite happens. Here's Joe Hudson on our resistance to emotions:
+
+> These are the traditional thought processes that people have about why emotions aren't safe. The reason that they feel that way is because that's how the resistance is. When you're resisting anger, you do destroy shit. When you are resisting sadness, it does last forever. It looks like depression. When you're resisting fear, then you're anxious all the time, and you are frozen. You're not doing stuff. People have confused the resistance with the emotion.
+
+Any teaching that we receive is at best a hypothesis until we have verified it in our personal experience. Coming back to my example, I sat there and felt the pain of loss as the imagery ran through my head. I felt discomfort all over my body, especially around my chest which became heavy and tense. I also felt my throat tensing up, and tears wanting to come to the surface.
+
+Yet before they did, the tension began to dissolve. Suddenly my chest didn't feel so heavy. And the mental imagery dispersed too. I'd been told to expect this. We'd learnt that on the other side of fear, rather than more anxiety we'd find fearlessness. This process was surprising and novel. It's one thing to hear someone talking about it, another thing to live through it.
+
+## Running Experiments & Caveats
+
+The invitation then is stop judging emotions as either good or bad, and fully welcome all of them.
+
+Of course, this is much easier said than done. It's important to point out that feeling our emotions is a skill to be mastered. If we've spent years resisting them, we might take some missteps to begin with. We might open up, and in the process get overtaken by them, confirming our fears. It's helpful to expect this and not be discouraged. We're risking a little destruction in the moment, with a view to transforming our relationship with these feelings.
+
+The most important thing to remember is to not do it at anybody. There are ways to feel and express our anger without directing it at anyone. My pillows have taken a hell of a beating since I learnt these lessons.
+
+The same goes for sadness and fear. When we learn appropriate ways give expression to these emotions, we'll be more willing to embrace them with the security that they won't hijack our actions. We'll then be able to receive the lessons that every one of our emotions offers us. Perhaps Rumi says it best:
+
+![Rumi poem on emotions](rumi-emotions.png)
