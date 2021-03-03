@@ -12,15 +12,15 @@ The incongruity that arises when I reduce the whole of my being to a job title f
 
 The thing about this question is that it can be interpreted in a few ways. We can receive it as an enquiry on either how we earn money, how we spend our days or even what our passion is.
 
-The interpretation that we choose will shape our answer. For example a few years ago I was at a retreat by myself and I struck up conversation with my Tipi neighbour. "What do you do?" inevitably came up and after I divulged my job title, she replied with:
+The interpretation that we choose will shape our answer. For example, a few years ago I was at a retreat by myself and I struck up conversation with my Tipi neighbour. "What do you do?" inevitably came up and after I divulged my job title, she replied with:
 
-"I paint. Sometimes I draw. Other times I watch TV. And I also pick flowers."
+"Well... sometimes I paint and sometimes I draw. Then there are times when I watch TV. OH! I also like picking flowers."
 
 I had no idea how to respond to this. It made me uncomfortable that she was not following universally accepted small talk protocol. In my mind my rigid answer outed me as a square as opposed to the free spirit sitting beside me.
 
-With hindsight I've started to appreciate her perspective on this question. Answering literally, with the activities that filled her day, she was refusing to tie herself to a pre-defined identity. She would not be reduced to a societally accepted label.
+With hindsight, I've started to appreciate her perspective on this question. Answering literally, with the activities that filled her day, she refused to tie herself to a pre-defined identity. She would not be reduced to a societally accepted label.
 
-The power that the language we use has on shaping who we are has become salient to me recently. If we repeat enough times that we're a developer, scientist, or stock broker, on some level we'll start to believe that's all we are. I admire her response because she would not forsake the multitudes within her.
+The power that the language we use has on shaping who we are has become salient to me recently. If we repeat enough times that we're a developer, a scientist, or a stock-broker, on some level we'll start to believe that's all we are. I admire her response because she would not forsake the multitudes within her.
 
 ## Deconstructing my Day
 
@@ -42,13 +42,13 @@ I'm a habit nerd and the one that I'm trying to embed at the moment is writing. 
 
 Writing is important to me right now because it's a vehicle for self-expression. For a long time in my life I believed I had to keep my head down and not be seen. It's only recently that I've realised that I don't need that protection anymore and that I can come out into the light. Writing is a huge part of that cathartic process which makes the struggle worth it.
 
-**Online Couses**
+**Online Courses**
 
 I discovered online education early last year and it feels like I've been on a course ever since. This pursuit satisfies my insatiable curiosity and need for intellectual stimulation. Without a course or book that's challenging my view of the world, I'd go a little crazy.
 
 **Running**
 
-I run without headphones. It's an oasis in the middle of my day that allows me to put my brain down and recharge by connecting with my body and my surroundings.
+I run without headphones. It's an oasis in the middle of my day that allows me to put my brain down, rest my thoughts, and recharge by connecting with my body and my surroundings.
 
 It's a vital constraint because I often don't know my own limits. I’m stubborn and think that if I keep pushing, my intellect will figure it all out. Burnout often ensues.
 
