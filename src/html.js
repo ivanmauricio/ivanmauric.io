@@ -13,6 +13,22 @@ export default class HTML extends React.Component {
             content="width=device-width, initial-scale=1, shrink-to-fit=no"
           />
           {this.props.headComponents}
+          <script
+            async
+            src="https://www.googletagmanager.com/gtag/js?id=G-QZQXVY5SFC"
+          ></script>
+
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+
+                gtag('config', 'G-QZQXVY5SFC');
+            `,
+            }}
+          />
         </head>
         <body {...this.props.bodyAttributes} className="light">
           <script
