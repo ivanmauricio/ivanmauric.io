@@ -9,6 +9,7 @@ import Seo from '../components/SEO';
 // import Signup from '../components/Signup';
 import { formatPostDate, formatReadingTime } from '../utils/helpers';
 import { rhythm, scale } from '../utils/typography';
+import ReadingProgress from '../components/ReadingProgress';
 
 // const GITHUB_USERNAME = 'gaearon';
 // const GITHUB_REPO_NAME = 'ivanmauric.io';
@@ -23,6 +24,8 @@ class BlogPostTemplate extends React.Component {
     const siteTitle = get(this.props, 'data.site.siteMetadata.title');
     const { previous, next, slug } = this.props.pageContext;
     const lang = post.fields.langKey;
+    const target = React.createRef();
+
     // const editUrl = `https://github.com/${GITHUB_USERNAME}/${GITHUB_REPO_NAME}/edit/master/src/pages/${slug.slice(
     //   1,
     //   slug.length - 1
@@ -36,47 +39,53 @@ class BlogPostTemplate extends React.Component {
 
     // eslint-disable-next-line react/jsx-pascal-case
     return (
-      <Layout location={this.props.location} title={siteTitle}>
-        <Seo
-          lang="en"
-          title={post.frontmatter.title}
-          description={post.frontmatter.spoiler}
-          slug={post.fields.slug}
-        />
-        <main>
-          <article>
-            <header>
-              <h1 style={{ color: 'var(--textTitle)' }}>
-                {post.frontmatter.title}
-              </h1>
-              <p
-                style={{
-                  ...scale(-1 / 5),
-                  display: 'block',
-                  marginBottom: rhythm(1),
-                  marginTop: rhythm(-4 / 5),
-                }}
-              >
-                {formatPostDate(post.frontmatter.date, lang)}
-                {` • ${formatReadingTime(post.timeToRead)}`}
-              </p>
-            </header>
-            <div dangerouslySetInnerHTML={{ __html: html }} />
-            <footer>
-              <p>
-                <a href={discussUrl} target="_blank" rel="noopener noreferrer">
-                  Discuss on Twitter
-                </a>
-                {/* {` • `}
+      <>
+        <ReadingProgress target={target} />
+        <Layout location={this.props.location} title={siteTitle}>
+          <Seo
+            lang="en"
+            title={post.frontmatter.title}
+            description={post.frontmatter.spoiler}
+            slug={post.fields.slug}
+          />
+          <main>
+            <article ref={target}>
+              <header>
+                <h1 style={{ color: 'var(--textTitle)' }}>
+                  {post.frontmatter.title}
+                </h1>
+                <p
+                  style={{
+                    ...scale(-1 / 5),
+                    display: 'block',
+                    marginBottom: rhythm(1),
+                    marginTop: rhythm(-4 / 5),
+                  }}
+                >
+                  {formatPostDate(post.frontmatter.date, lang)}
+                  {` • ${formatReadingTime(post.timeToRead)}`}
+                </p>
+              </header>
+              <div dangerouslySetInnerHTML={{ __html: html }} />
+              <footer>
+                <p>
+                  <a
+                    href={discussUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Discuss on Twitter
+                  </a>
+                  {/* {` • `}
                 <a href={editUrl} target="_blank" rel="noopener noreferrer">
                   Edit on GitHub
                 </a> */}
-              </p>
-            </footer>
-          </article>
-        </main>
-        <aside>
-          {/* <div
+                </p>
+              </footer>
+            </article>
+          </main>
+          <aside>
+            {/* <div
             style={{
               margin: '90px 0 40px 0',
               fontFamily: systemFont,
@@ -84,56 +93,57 @@ class BlogPostTemplate extends React.Component {
           >
             <Signup />
           </div> */}
-          <h3
-            style={{
-              fontFamily: 'Montserrat, sans-serif',
-              marginTop: rhythm(4),
-            }}
-          >
-            <Link
+            <h3
               style={{
-                boxShadow: 'none',
-                textDecoration: 'none',
-                color: 'var(--textLink)',
-              }}
-              to="/"
-            >
-              ivanmauric.io
-            </Link>
-          </h3>
-          <Bio />
-          <nav>
-            <ul
-              style={{
-                display: 'flex',
-                flexWrap: 'wrap',
-                justifyContent: 'space-between',
-                listStyle: 'none',
-                padding: 0,
+                fontFamily: 'Montserrat, sans-serif',
+                marginTop: rhythm(4),
               }}
             >
-              <li>
-                {previous && (
-                  <Link
-                    to={previous.fields.slug}
-                    rel="prev"
-                    style={{ marginRight: 20 }}
-                  >
-                    ← {previous.frontmatter.title}
-                  </Link>
-                )}
-              </li>
-              <li>
-                {next && (
-                  <Link to={next.fields.slug} rel="next">
-                    {next.frontmatter.title} →
-                  </Link>
-                )}
-              </li>
-            </ul>
-          </nav>
-        </aside>
-      </Layout>
+              <Link
+                style={{
+                  boxShadow: 'none',
+                  textDecoration: 'none',
+                  color: 'var(--textLink)',
+                }}
+                to="/"
+              >
+                ivanmauric.io
+              </Link>
+            </h3>
+            <Bio />
+            <nav>
+              <ul
+                style={{
+                  display: 'flex',
+                  flexWrap: 'wrap',
+                  justifyContent: 'space-between',
+                  listStyle: 'none',
+                  padding: 0,
+                }}
+              >
+                <li>
+                  {previous && (
+                    <Link
+                      to={previous.fields.slug}
+                      rel="prev"
+                      style={{ marginRight: 20 }}
+                    >
+                      ← {previous.frontmatter.title}
+                    </Link>
+                  )}
+                </li>
+                <li>
+                  {next && (
+                    <Link to={next.fields.slug} rel="next">
+                      {next.frontmatter.title} →
+                    </Link>
+                  )}
+                </li>
+              </ul>
+            </nav>
+          </aside>
+        </Layout>
+      </>
     );
   }
 }
