@@ -54,7 +54,7 @@ It's a vital constraint because I often don't know my own limits. I’m stubborn
 
 ---
 
-I could go on but I'll stop there. Of course there are many more activities that fill up my day, but even choosing a select few feels more authentic than the standard response to this question.
+I could go on but I'll stop there. Of course there are many more activities that fill my day, but even choosing a select few feels more authentic than the standard response to this question.
 
 ## Constructing my Essence
 
